@@ -25,13 +25,13 @@ async def start(b, m):
     usr_cmd = m.text.split("_")[-1]
     if usr_cmd == "/start":
         await m.reply_photo(
-            photo="https://graph.org/file/37858b895e6d5ec39b5ad.jpg",
+            photo="https://telegra.ph/file/8b7879848291e7da3f748.jpg",
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/elitecraft_studios"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/elitecraft_support")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/god_luffy_ati"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/elitecraft_studios")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@elitecraft_studios")]
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/pcnewmoviez"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/pcsupportgrp")],
+                    [InlineKeyboardButton("OWNER", url="https://t.me/parshucr"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/parshucr")],
+                    [InlineKeyboardButton("💌 MOVIE GROUP 💌", url="https://t.me/pcmoviedemand")]
                 ]
             ),
             
@@ -79,15 +79,15 @@ async def help_handler(bot, message):
         )
               
     await message.reply_photo(
-            photo="https://graph.org/file/37858b895e6d5ec39b5ad.jpg",
+            photo="https://telegra.ph/file/ab9fc5232a67e03a908cc.jpg",
             caption="**┣⪼ sᴇɴᴅ ᴍᴇ ᴀɴʏ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛʜᴇɴ ɪ ᴡɪʟʟ ʏᴏᴜ ᴘᴇʀᴍᴀɴᴇɴᴛ sʜᴀʀᴇᴀʙʟᴇ ʟɪɴᴋ ᴏғ ɪᴛ...\n\n┣⪼ ᴛʜɪs ʟɪɴᴋ ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴏʀ ᴛᴏ sᴛʀᴇᴀᴍ ᴜsɪɴɢ ᴇxᴛᴇʀɴᴀʟ ᴠɪᴅᴇᴏ ᴘʟᴀʏᴇʀs ᴛʜʀᴏᴜɢʜ ᴍʏ sᴇʀᴠᴇʀs.\n\n┣⪼ ғᴏʀ sᴛʀᴇᴀᴍɪɴɢ ᴊᴜsᴛ ᴄᴏᴘʏ ᴛʜᴇ ʟɪɴᴋ ᴀɴᴅ ᴘᴀsᴛᴇ ɪᴛ ɪɴ ʏᴏᴜʀ ᴠɪᴅᴇᴏ ᴘʟᴀʏᴇʀ ᴛᴏ sᴛᴀʀᴛ sᴛʀᴇᴀᴍɪɴɢ.\n\n┣⪼ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟsᴏ sᴜᴘᴘᴏʀᴛ ɪɴ ᴄʜᴀɴɴᴇʟ. ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴀs ᴀᴅᴍɪɴ ᴛᴏ ɢᴇᴛ ʀᴇᴀʟᴛɪᴍᴇ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ ғᴏʀ ᴇᴠᴇʀʏ ғɪʟᴇs/ᴠɪᴅᴇᴏs ᴘᴏsʏ../\n\n┣⪼ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ :- /about\n\n\nᴘʟᴇᴀsᴇ sʜᴀʀᴇ ᴀɴᴅ sᴜʙsᴄʀɪʙᴇ**", 
   
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/elitecraft_studios"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/elitecraft_support")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/god_luffy_ati"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/elitecraft_studios")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@elitecraft_studios")]
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/pcnewmoviez"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/pcsupportgrp")],
+                    [InlineKeyboardButton("OWNER", url="https://t.me/parshucr"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/parshucr")],
+                    [InlineKeyboardButton("💌 MOVIE GROUP 💌", url="https://t.me/pcmoviedemand")]
                 ]
             ),
             
@@ -103,15 +103,15 @@ async def about_handler(bot, message):
         )
               
     await message.reply_photo(
-            photo="https://graph.org/file/37858b895e6d5ec39b5ad.jpg",
-            caption="**sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜\n\n╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕\n┃\n┣⪼ʙᴏᴛ ɴᴀᴍᴇ : ғɪʟᴇ ᴛᴏ ʟɪɴᴋ\n┣⪼ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/elitecraft_studios'>EliteCraft Studios</a>\n┣⪼sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/elitecraft_support'>elitecraft support</a>\n┣⪼sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ\n┣⪼ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n┣⪼ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3\n┣⪼ʏᴏᴜᴛᴜʙᴇ : <a href='https://youtube.com/@elitecraft_studios'>EliteCraft Studios</a>\n┃\n╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕**", 
+            photo="https://telegra.ph/file/9a78e90e8eb4e68c449d4.jpg",
+            caption="**sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜\n\n╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕\n┃\n┣⪼ʙᴏᴛ ɴᴀᴍᴇ : ғɪʟᴇ ᴛᴏ ʟɪɴᴋ\n┣⪼ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/pcnewmoviez'>PC MOVIEZ🎥</a>\n┣⪼sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/pcsupportgrp'>🤖PC Support Group🤖</a>\n┣⪼sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ\n┣⪼ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n┣⪼ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3\n┣⪼ʏᴏᴜᴛᴜʙᴇ : <a href='https://youtube.com/'>PC MOVIEZ🎥</a>\n┃\n╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕**", 
   
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/elitecraft_studios"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/elitecraft_support")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/god_luffy_ati"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/elitecraft_studios")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@elitecraft_studios")]
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/pcnewmoviez"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/pcsupportgrp")],
+                    [InlineKeyboardButton("OWNER", url="https://t.me/parshucr"), InlineKeyboardButton("💠 DEVELOPER", url="https://t.me/parshucr")],
+                    [InlineKeyboardButton("💌 MOVIE GROUP 💌", url="https://t.me/pcmoviedemand")]
                 ]
             ),
             
