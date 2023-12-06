@@ -22,7 +22,7 @@ async def master(b,m):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("Developer💻", url=f"https://t.me/elitecraft_studios")
+                                InlineKeyboardButton("Developer💻", url=f"https://t.me/parshucr")
                             ]
                         ]
                     ),
@@ -42,7 +42,7 @@ async def follow_user(b,m):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("FOLLOW ME", url=f"https://youtube.com/@elitecraft_studios")
+                                InlineKeyboardButton("FOLLOW ME", url=f"https://t.me/pcnewmoviez")
                             ]
                         ]
                     ),
